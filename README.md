@@ -1,3 +1,3 @@
-# Test-Grunt
+Try-Grunt
 
-Application pour apprendre à utiliser Grunt
+Web app just la learn Grunt
