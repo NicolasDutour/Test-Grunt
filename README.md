@@ -1,3 +1,3 @@
 Try-Grunt
 
-Web app just la learn Grunt
+Web app just to learn Grunt
